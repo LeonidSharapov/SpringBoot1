@@ -17,4 +17,5 @@ public class MainController {
         model.addAttribute("title", "Страница про нас");
         return "about";
     }
+
 }
